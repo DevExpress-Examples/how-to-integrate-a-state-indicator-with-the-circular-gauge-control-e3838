@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/SilverlightApplication1/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication1/MainPage.xaml))
 <!-- default file list end -->
 # How to integrate a State Indicator with the Circular Gauge control  
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3838)**
+<!-- run online end -->
 
 
 <p>The following sample shows how a State Indicator control can be integrated with the Circular Gauge control. This integration forces the State Indicator control to automatically change its state every time when a Value Indicator enters into a new range on a Circular Gauge.</p><br />
